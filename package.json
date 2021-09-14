@@ -1,0 +1,17 @@
+{
+  "name": "image-processing-code-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest --coverage"
+  },
+  "author": "Chris Wang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "jest": "^27.1.1",
+    "sharp": "^0.29.1"
+  }
+}
