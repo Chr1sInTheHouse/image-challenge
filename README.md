@@ -1,12 +1,10 @@
 # Image Processing Code Challenge
 
----
 
 Stream an image from a url to your computer and flip it along the Y and X axis.
 
 ## Usage
 
----
 
 ```bash
 # To install the packages
@@ -21,9 +19,8 @@ npm run start
 
 The final result will be store in the image folder.
 
-# Proposed Solution
+## Proposed Solution
 
----
 
 ### Architecture
 
