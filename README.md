@@ -58,3 +58,7 @@ This app is developed in node.js. Following packages are used in this work:
     ```jsx
     const flipped_image = await flipImage(image)
     ```
+
+### Streaming 於我之前使用的方式主要差別是什麼
+
+Streaming 與我之前使用的方式主要差別在於可以分批對data進行讀寫，在非同步處理時可以增加效率，同時避免使用過多記憶體空間。
